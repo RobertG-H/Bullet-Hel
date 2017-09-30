@@ -19,6 +19,7 @@ public class EnemyScript : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D coll){
 		if (coll.gameObject.name == "BoundBoxBottom") {
 			Destroy (gameObject);
+            GameManager.gm.enemyDead(1);
 		}	
 	}	
 

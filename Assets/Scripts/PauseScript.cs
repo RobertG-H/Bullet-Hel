@@ -27,6 +27,9 @@ public class PauseScript : MonoBehaviour {
 				Time.timeScale = 1;
 			}
 		}
-		Counter--;
+        if (Counter > 0)
+        {
+            Counter--;
+        }
 	}
 }
