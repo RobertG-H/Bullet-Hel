@@ -37,11 +37,25 @@ public class PlayerScript : MonoBehaviour {
 			this.GetComponent<Rigidbody2D> ().velocity = Vector3.zero;
 			//PositionTransform = transform.right * 0;
 		}
+// <<<<<<< HEAD
 		//this.GetComponent<Rigidbody2D> ().velocity = Vector3.right * SpaceShipSpeed;	
 		//this.GetComponent<Rigidbody2D>().MovePosition += PositionTransform;
 		/* bool Horizontal = Input.GetKey ("d") || Input.GetKey ("a");
 		bool Vertical = Input.GetKey ("w") || Input.GetKey ("s");
 
 		this.GetComponent<Rigidbody2D> ().velocity = Vector3 (Horizontal * SpaceShipSpeed, Vertical * SpaceShipSpeed, 0f); */
+//=======
+        
+		
+//>>>>>>> 5436e28eaf30d1c85d57fce50a1e3f2c53db060d
 	}
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.name == "Enemy1")
+        {
+            Debug.Log("CONTACT");
+            Destroy(collision.gameObject);
+        }
+    }
 }
