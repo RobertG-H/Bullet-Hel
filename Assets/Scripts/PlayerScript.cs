@@ -28,6 +28,16 @@ public class PlayerScript : MonoBehaviour {
 		} else {
 			this.GetComponent<Rigidbody2D> ().velocity = Vector3.zero;
 		}
+        
 		
 	}
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.name == "Enemy1")
+        {
+            Debug.Log("CONTACT");
+            Destroy(collision.gameObject);
+        }
+    }
 }
