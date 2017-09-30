@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: da785e0ea2db2484fbce4b3c33919c4b
+timeCreated: 1506730211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Galaga Demons of Death - Galaga_0
+    21300002: NES - Galaga Demons of Death - Galaga_1
+    21300004: NES - Galaga Demons of Death - Galaga_2
+    21300006: NES - Galaga Demons of Death - Galaga_3
+    21300008: NES - Galaga Demons of Death - Galaga_4
+    21300010: NES - Galaga Demons of Death - Galaga_5
+    21300012: NES - Galaga Demons of Death - Galaga_6
+    21300014: NES - Galaga Demons of Death - Galaga_7
+    21300016: NES - Galaga Demons of Death - Galaga_8
+    21300018: NES - Galaga Demons of Death - Galaga_9
+    21300020: NES - Galaga Demons of Death - Galaga_10
+    21300022: NES - Galaga Demons of Death - Galaga_11
+    21300024: NES - Galaga Demons of Death - Galaga_12
+    21300026: NES - Galaga Demons of Death - Galaga_13
+    21300028: NES - Galaga Demons of Death - Galaga_14
+    21300030: NES - Galaga Demons of Death - Galaga_15
+    21300032: NES - Galaga Demons of Death - Galaga_16
+    21300034: NES - Galaga Demons of Death - Galaga_17
+    21300036: NES - Galaga Demons of Death - Galaga_18
+    21300038: NES - Galaga Demons of Death - Galaga_19
+    21300040: NES - Galaga Demons of Death - Galaga_20
+    21300042: NES - Galaga Demons of Death - Galaga_21
+    21300044: NES - Galaga Demons of Death - Galaga_22
+    21300046: NES - Galaga Demons of Death - Galaga_23
+    21300048: NES - Galaga Demons of Death - Galaga_24
+    21300050: NES - Galaga Demons of Death - Galaga_25
+    21300052: NES - Galaga Demons of Death - Galaga_26
+    21300054: NES - Galaga Demons of Death - Galaga_27
+    21300056: NES - Galaga Demons of Death - Galaga_28
+    21300058: NES - Galaga Demons of Death - Galaga_29
+    21300060: NES - Galaga Demons of Death - Galaga_30
+    21300062: NES - Galaga Demons of Death - Galaga_31
+    21300064: NES - Galaga Demons of Death - Galaga_32
+    21300066: NES - Galaga Demons of Death - Galaga_33
+    21300068: NES - Galaga Demons of Death - Galaga_34
+    21300070: NES - Galaga Demons of Death - Galaga_35
+    21300072: NES - Galaga Demons of Death - Galaga_36
+    21300074: NES - Galaga Demons of Death - Galaga_37
+    21300076: NES - Galaga Demons of Death - Galaga_38
+    21300078: NES - Galaga Demons of Death - Galaga_39
+    21300080: NES - Galaga Demons of Death - Galaga_40
+    21300082: NES - Galaga Demons of Death - Galaga_41
+    21300084: NES - Galaga Demons of Death - Galaga_42
+    21300086: NES - Galaga Demons of Death - Galaga_43
+    21300088: NES - Galaga Demons of Death - Galaga_44
+    21300090: NES - Galaga Demons of Death - Galaga_45
+    21300092: NES - Galaga Demons of Death - Galaga_46
+    21300094: NES - Galaga Demons of Death - Galaga_47
+    21300096: NES - Galaga Demons of Death - Galaga_48
+    21300098: NES - Galaga Demons of Death - Galaga_49
+    21300100: NES - Galaga Demons of Death - Galaga_50
+    21300102: NES - Galaga Demons of Death - Galaga_51
+    21300104: NES - Galaga Demons of Death - Galaga_52
+    21300106: NES - Galaga Demons of Death - Galaga_53
+    21300108: NES - Galaga Demons of Death - Galaga_54
+    21300110: NES - Galaga Demons of Death - Galaga_55
+    21300112: NES - Galaga Demons of Death - Galaga_56
+    21300114: NES - Galaga Demons of Death - Galaga_57
+    21300116: NES - Galaga Demons of Death - Galaga_58
+    21300118: NES - Galaga Demons of Death - Galaga_59
+    21300120: NES - Galaga Demons of Death - Galaga_60
+    21300122: NES - Galaga Demons of Death - Galaga_61
+    21300124: NES - Galaga Demons of Death - Galaga_62
+    21300126: NES - Galaga Demons of Death - Galaga_63
+    21300128: NES - Galaga Demons of Death - Galaga_64
+    21300130: NES - Galaga Demons of Death - Galaga_65
+    21300132: NES - Galaga Demons of Death - Galaga_66
+    21300134: NES - Galaga Demons of Death - Galaga_67
+    21300136: NES - Galaga Demons of Death - Galaga_68
+    21300138: NES - Galaga Demons of Death - Galaga_69
+    21300140: NES - Galaga Demons of Death - Galaga_70
+    21300142: NES - Galaga Demons of Death - Galaga_71
+    21300144: NES - Galaga Demons of Death - Galaga_72
+    21300146: NES - Galaga Demons of Death - Galaga_73
+    21300148: NES - Galaga Demons of Death - Galaga_74
+    21300150: NES - Galaga Demons of Death - Galaga_75
+    21300152: NES - Galaga Demons of Death - Galaga_76
+    21300154: NES - Galaga Demons of Death - Galaga_77
+    21300156: NES - Galaga Demons of Death - Galaga_78
+    21300158: NES - Galaga Demons of Death - Galaga_79
+    21300160: NES - Galaga Demons of Death - Galaga_80
+    21300162: NES - Galaga Demons of Death - Galaga_81
+    21300164: NES - Galaga Demons of Death - Galaga_82
+    21300166: NES - Galaga Demons of Death - Galaga_83
+    21300168: NES - Galaga Demons of Death - Galaga_84
+    21300170: NES - Galaga Demons of Death - Galaga_85
+    21300172: NES - Galaga Demons of Death - Galaga_86
+    21300174: NES - Galaga Demons of Death - Galaga_87
+    21300176: NES - Galaga Demons of Death - Galaga_88
+    21300178: NES - Galaga Demons of Death - Galaga_89
+    21300180: NES - Galaga Demons of Death - Galaga_90
+    21300182: NES - Galaga Demons of Death - Galaga_91
+    21300184: NES - Galaga Demons of Death - Galaga_92
+    21300186: NES - Galaga Demons of Death - Galaga_93
+    21300188: NES - Galaga Demons of Death - Galaga_94
+    21300190: NES - Galaga Demons of Death - Galaga_95
+    21300192: NES - Galaga Demons of Death - Galaga_96
+    21300194: NES - Galaga Demons of Death - Galaga_97
+    21300196: NES - Galaga Demons of Death - Galaga_98
+    21300198: NES - Galaga Demons of Death - Galaga_99
+    21300200: NES - Galaga Demons of Death - Galaga_100
+    21300202: NES - Galaga Demons of Death - Galaga_101
+    21300204: NES - Galaga Demons of Death - Galaga_102
+    21300206: NES - Galaga Demons of Death - Galaga_103
+    21300208: NES - Galaga Demons of Death - Galaga_104
+    21300210: NES - Galaga Demons of Death - Galaga_105
+    21300212: NES - Galaga Demons of Death - Galaga_106
+    21300214: NES - Galaga Demons of Death - Galaga_107
+    21300216: NES - Galaga Demons of Death - Galaga_108
+    21300218: NES - Galaga Demons of Death - Galaga_109
+    21300220: NES - Galaga Demons of Death - Galaga_110
+    21300222: NES - Galaga Demons of Death - Galaga_111
+    21300224: NES - Galaga Demons of Death - Galaga_112
+    21300226: NES - Galaga Demons of Death - Galaga_113
+    21300228: NES - Galaga Demons of Death - Galaga_114
+    21300230: NES - Galaga Demons of Death - Galaga_115
+    21300232: NES - Galaga Demons of Death - Galaga_116
+    21300234: NES - Galaga Demons of Death - Galaga_117
+    21300236: NES - Galaga Demons of Death - Galaga_118
+    21300238: NES - Galaga Demons of Death - Galaga_119
+    21300240: NES - Galaga Demons of Death - Galaga_120
+    21300242: NES - Galaga Demons of Death - Galaga_121
+    21300244: NES - Galaga Demons of Death - Galaga_122
+    21300246: NES - Galaga Demons of Death - Galaga_123
+    21300248: NES - Galaga Demons of Death - Galaga_124
+    21300250: NES - Galaga Demons of Death - Galaga_125
+    21300252: NES - Galaga Demons of Death - Galaga_126
+    21300254: NES - Galaga Demons of Death - Galaga_127
+    21300256: NES - Galaga Demons of Death - Galaga_128
+    21300258: NES - Galaga Demons of Death - Galaga_129
+    21300260: NES - Galaga Demons of Death - Galaga_130
+    21300262: NES - Galaga Demons of Death - Galaga_131
+    21300264: NES - Galaga Demons of Death - Galaga_132
+    21300266: NES - Galaga Demons of Death - Galaga_133
+    21300268: NES - Galaga Demons of Death - Galaga_134
+    21300270: NES - Galaga Demons of Death - Galaga_135
+    21300272: NES - Galaga Demons of Death - Galaga_136
+    21300274: NES - Galaga Demons of Death - Galaga_137
+    21300276: NES - Galaga Demons of Death - Galaga_138
+    21300278: NES - Galaga Demons of Death - Galaga_139
+    21300280: NES - Galaga Demons of Death - Galaga_140
+    21300282: NES - Galaga Demons of Death - Galaga_141
+    21300284: NES - Galaga Demons of Death - Galaga_142
+    21300286: NES - Galaga Demons of Death - Galaga_143
+    21300288: NES - Galaga Demons of Death - Galaga_144
+    21300290: NES - Galaga Demons of Death - Galaga_145
+    21300292: NES - Galaga Demons of Death - Galaga_146
+    21300294: NES - Galaga Demons of Death - Galaga_147
+    21300296: NES - Galaga Demons of Death - Galaga_148
+    21300298: NES - Galaga Demons of Death - Galaga_149
+    21300300: NES - Galaga Demons of Death - Galaga_150
+    21300302: NES - Galaga Demons of Death - Galaga_151
+    21300304: NES - Galaga Demons of Death - Galaga_152
+    21300306: NES - Galaga Demons of Death - Galaga_153
+    21300308: NES - Galaga Demons of Death - Galaga_154
+    21300310: NES - Galaga Demons of Death - Galaga_155
+    21300312: NES - Galaga Demons of Death - Galaga_156
+    21300314: NES - Galaga Demons of Death - Galaga_157
+    21300316: NES - Galaga Demons of Death - Galaga_158
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 368
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 368
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 363
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 368
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 316
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 316
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 316
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 316
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 316
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 317
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 303
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 300
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 303
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 292
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 292
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 292
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 292
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 292
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 293
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 275
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 268
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 268
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 268
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 269
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 269
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 269
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 244
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 245
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 245
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 247
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 250
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 247
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 250
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 247
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 250
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 242
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 242
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_58
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 244
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 242
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_60
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 244
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 234
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 239
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 234
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 239
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 234
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 239
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 223
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_69
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 222
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 222
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 222
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_73
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 223
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_74
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 222
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 226
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_76
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 231
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 226
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_78
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 231
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_80
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 231
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 220
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_83
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 220
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_84
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 223
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_85
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 220
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_86
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_87
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 210
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 215
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 210
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 215
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_91
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 210
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_92
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 215
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_94
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 199
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_96
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_97
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 174
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_98
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 198
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_99
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 149
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_102
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 174
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 197
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_104
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 175
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_105
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 150
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_106
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_107
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 153
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 197
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_109
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 198
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_110
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 174
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_112
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 151
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_113
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 175
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_114
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 198
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 204
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 150
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_117
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 184
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 157
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 160
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_121
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 155
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_122
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 141
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_123
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 204
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_124
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 126
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_125
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_127
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_128
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 125
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_129
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 126
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_130
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 127
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 102
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_132
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_133
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_134
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_135
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_137
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_138
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 100
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_139
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_140
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 100
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_141
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 100
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_142
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 100
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_145
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_147
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_149
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 78
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_153
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_154
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 24
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_155
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_156
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_157
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Galaga Demons of Death - Galaga_158
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
