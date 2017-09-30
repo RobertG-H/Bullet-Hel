@@ -5,6 +5,7 @@ using UnityEngine;
 public class SpawnEnemy : MonoBehaviour {
 
 	public GameObject enemy1;
+	public GameObject playerBase;
 	float randX;
 	Vector2 whereToSpawn;
 	public float spawnRate = 2f;
@@ -22,7 +23,6 @@ public class SpawnEnemy : MonoBehaviour {
 			whereToSpawn = new Vector2 (randX, transform.position.y);
 
 			GameObject enemy = (GameObject)Instantiate (enemy1, whereToSpawn, transform.rotation);
-			
 		}
 
 	}

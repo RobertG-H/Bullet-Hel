@@ -61,5 +61,11 @@ public class PlayerScript : MonoBehaviour {
             Destroy(gameObject);
             GameManager.gm.gameIsOver = true;
         }
+		if (collision.gameObject.name == "Enemy2 Shot(Clone)")
+		{
+			Debug.Log("CONTACT");
+			Destroy(gameObject);
+			GameManager.gm.gameIsOver = true;
+		}
     }
 }

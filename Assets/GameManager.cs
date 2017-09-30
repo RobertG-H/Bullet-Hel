@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     // setup the game
     void Start()
     {
-
+		mainDisplay.text = "0";
 
         // get a reference to the GameManager component for use by other scripts
         if (gm == null)
@@ -47,9 +47,11 @@ public class GameManager : MonoBehaviour
             if (canBeatLevel && (score >= beatLevelScore))
             {  // check to see if beat game
                 BeatLevel();
-            }
+            } else {
+				mainDisplay.text = score.ToString ();	
+			}
         }
-        else
+		else
         {
             EndGame();
             if (canBeatLevel && (score >= beatLevelScore)) { mainDisplay.text = "YOU WON!"; }
