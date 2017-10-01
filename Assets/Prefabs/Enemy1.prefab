@@ -120,7 +120,7 @@ MonoBehaviour:
   NewBehaviourScript1: {fileID: 0}
   EnemySpeed: 0.02
   Health: 2
-  damagedSprite: {fileID: 21300062, guid: c7afd7ecdefa4e94093070add5beb480, type: 3}
+  damagedSprite: {fileID: 21300064, guid: c7afd7ecdefa4e94093070add5beb480, type: 3}
 --- !u!212 &212596058935305886
 SpriteRenderer:
   m_ObjectHideFlags: 1

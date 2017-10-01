@@ -51,7 +51,7 @@ public class EnemyScript : MonoBehaviour {
         {
             Destroy(gameObject);
             Debug.Log("Enemy 1 dead");
-            GameManager.gm.enemyDead(1);
+            GameManager.gm.enemyDead(0);
         }
 
 		// LOOKING AT PLAYER AND MOVING TOWARDS IT
@@ -75,10 +75,13 @@ public class EnemyScript : MonoBehaviour {
         if (coll.gameObject.name == "PlayerBullet" || coll.gameObject.name == "PlayerBullet(Clone)")
         {
             this.GetComponent<SpriteRenderer>().sprite = damagedSprite;
+			GetComponent<SpriteRenderer>().color = new Color(1f,0.286f, 0.286f);
             //Debug.Log("Bullet hit");
 
             Health--;
         }
+
+
 	}
 
 

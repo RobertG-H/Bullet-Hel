@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
-		mainDisplay.text = "0";
+		mainDisplay.text = "";
 
         // get a reference to the GameManager component for use by other scripts
         if (gm == null)
@@ -49,13 +49,13 @@ public class GameManager : MonoBehaviour
             {  // check to see if beat game
                 BeatLevel();
             } else {
-				mainDisplay.text = score.ToString ();	
+				
 			}
         }
 		else
         {
             EndGame();
-            if (canBeatLevel && (score >= beatLevelScore)) { mainDisplay.text = "YOU WON!"; }
+            if (canBeatLevel && (score >= beatLevelScore)) { mainDisplay.text = "YOU CHANGED THE WORLD!"; }
         }
     }
 

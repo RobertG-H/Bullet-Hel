@@ -58,7 +58,7 @@ public class Enemy2Script : MonoBehaviour {
             }
 
             //10.26 is the y position of enemy2
-            this.GetComponent<Rigidbody2D>().MovePosition(new Vector2(this.GetComponent<Rigidbody2D>().position.x + movement * EnemySpeed, 10.26f));
+            this.GetComponent<Rigidbody2D>().MovePosition(new Vector2(this.GetComponent<Rigidbody2D>().position.x + movement * EnemySpeed, 9.8f));
 
             if (Health <= 0)
             {

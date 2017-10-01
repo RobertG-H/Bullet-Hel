@@ -1,10 +1,14 @@
 WindowsStandalone
-42163b684535b01061bf38e168437e91 Assembly-CSharp.dll:.PlayerScript
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Restart
+41ab493902a3e683b7fea99751a69929 Assembly-CSharp.dll:.PlayerScript
 dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.Scroll
-86757c75f44253092f1c959c5b3268e3 Assembly-CSharp.dll:.SpawnEnemy
+6ab644cd86115790d99282ac4b09947b Assembly-CSharp.dll:.Enemy2Script
+307420dc2c7d31a3cd59d64ff57c22a7 Assembly-CSharp.dll:.SpawnEnemy
+41ae69a6b4db4b03ea55443f66e510e2 Assembly-CSharp.dll:.Enemy2ShotScript
+b2740a218fc5a6dd811e5811b7765af0 Assembly-CSharp.dll:.PlayerBulletScript
 a36a46c4593dda03eaf53d744cf0c9af Assembly-CSharp.dll:.GameManager
-498b73deff021300cdf6213b86485022 Assembly-CSharp.dll:.EnemyScript
-f1509d02f285e6604d58cea717b342e0 Assembly-CSharp.dll:.PauseScript
+98858ebaaa136b7ec7c2dddbadce560c Assembly-CSharp.dll:.EnemyScript
+20611cba56ae1450b4c60011df3e447c Assembly-CSharp.dll:.PauseScript
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
@@ -135,5 +139,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
-f5d6b01958bbe9ba149f43a6e9d5fbaf Assembly-CSharp.dll:.Enemy2ShotScript
-8c130688dcc0e321976f9c4b3ef41412 Assembly-CSharp.dll:.Enemy2Script
+b2740a218fc5a6dd811e5811b7765af0 Assembly-CSharp.dll:.NewBehaviourScript
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.NewBehaviourScript1
+88d2bb7a77e5dcb6b6530726f47313a2 Assembly-CSharp.dll:.ButtonScript

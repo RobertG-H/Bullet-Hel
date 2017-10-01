@@ -8,6 +8,7 @@ public class PlayerScript : MonoBehaviour {
 	public GameObject PlayerShot;
 	public int Counter;
     public int sp;
+	public AudioClip deathSound;
    // int leftHash = Animator.StringToHash("Spaceship Left Animation");
     //int rightHash = Animator.StringToHash("Spaceship Right Animation");
    // Animator anim;
@@ -17,6 +18,7 @@ public class PlayerScript : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+		
         //anim = GetComponent<Animator>();
 	    Counter = 0;
 	}
@@ -82,17 +84,20 @@ public class PlayerScript : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+
 		if (collision.gameObject.name == "Enemy1(Clone)")
         {
             Debug.Log("CONTACT");
             Destroy(gameObject);
             GameManager.gm.gameIsOver = true;
+			GetComponent<AudioSource>().PlayOneShot(deathSound);
         }
 		if (collision.gameObject.name == "Enemy2 Shot(Clone)")
 		{
 			Debug.Log("CONTACT");
 			Destroy(gameObject);
 			GameManager.gm.gameIsOver = true;
+			GetComponent<AudioSource>().PlayOneShot(deathSound);
 		}
     }
 
