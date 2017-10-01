@@ -4,17 +4,27 @@ using UnityEngine;
 
 public class PlayerScript : MonoBehaviour {
 
+<<<<<<< HEAD
 	public float SpaceShipSpeed = 2;
 	//public Sprite turnLeftSprite;
 	// Use this for initialization
 	void Start () {
 		
+=======
+    public GameObject PlayerShot;
+    public float SpaceShipSpeed = 2;
+    public int Counter;
+    // Use this for initialization
+    void Start () {
+        Counter = 0;
+>>>>>>> ba1112a375fd0151d95f90b97034b2da97e7375a
 	}
 	
 	// Update is called once per frame
 	void Update () {
 
 		 Vector2 PositionTransform = Vector2.zero;
+        
 
 		 if (Input.GetKey ("w")) {
 			Debug.Log ("Player Moving Up");
@@ -49,11 +59,23 @@ public class PlayerScript : MonoBehaviour {
 		bool Vertical = Input.GetKey ("w") || Input.GetKey ("s"); */
 
 		this.GetComponent<Rigidbody2D> ().MovePosition (this.GetComponent<Rigidbody2D> ().position + PositionTransform);
-//=======
-        
-		
-//>>>>>>> 5436e28eaf30d1c85d57fce50a1e3f2c53db060d
-	}
+
+        if(Input.GetKey("up") && Counter <= 0)
+        {
+            Counter = 20;
+            Debug.Log("Player shooting");
+            PlayerShoot();
+        }
+
+        if (Counter > 0)
+        {
+            Counter--;
+        }
+        //=======
+
+
+        //>>>>>>> 5436e28eaf30d1c85d57fce50a1e3f2c53db060d
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -70,4 +92,11 @@ public class PlayerScript : MonoBehaviour {
 			GameManager.gm.gameIsOver = true;
 		}
     }
+
+    void PlayerShoot()
+    {
+        GameObject shot = (GameObject)Instantiate(PlayerShot, transform.position, transform.rotation);
+
+    }
+
 }
