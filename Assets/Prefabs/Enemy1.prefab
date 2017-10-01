@@ -108,7 +108,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: 
+  m_WarningMessage:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114186709444963202
@@ -120,15 +120,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d1b0b4be44a84f94d9dc14e33eedb8ae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   PlayerBullet: {fileID: 1831660951063456, guid: 5387d6057c2c85844a6b3a1ad4032e81,
     type: 2}
   EnemySpeed: 0.05
-<<<<<<< HEAD
-=======
   Health: 2
->>>>>>> ba1112a375fd0151d95f90b97034b2da97e7375a
 --- !u!212 &212596058935305886
 SpriteRenderer:
   m_ObjectHideFlags: 1

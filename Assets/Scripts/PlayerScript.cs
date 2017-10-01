@@ -4,27 +4,24 @@ using UnityEngine;
 
 public class PlayerScript : MonoBehaviour {
 
-<<<<<<< HEAD
 	public float SpaceShipSpeed = 2;
 	//public Sprite turnLeftSprite;
 	// Use this for initialization
 	void Start () {
-		
-=======
+
     public GameObject PlayerShot;
     public float SpaceShipSpeed = 2;
     public int Counter;
     // Use this for initialization
     void Start () {
         Counter = 0;
->>>>>>> ba1112a375fd0151d95f90b97034b2da97e7375a
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 
 		 Vector2 PositionTransform = Vector2.zero;
-        
+
 
 		 if (Input.GetKey ("w")) {
 			Debug.Log ("Player Moving Up");
@@ -47,13 +44,13 @@ public class PlayerScript : MonoBehaviour {
 			//this.GetComponent<Rigidbody2D> ().velocity = Vector3.left * SpaceShipSpeed;
 			PositionTransform += Vector2.left * SpaceShipSpeed;
 		}
-	
+
 		if (Input.GetKey(KeyCode.None)) {
 			//this.GetComponent<Rigidbody2D> ().velocity = Vector3.zero;
 			PositionTransform = Vector2.zero;
 		}
 // <<<<<<< HEAD
-		//this.GetComponent<Rigidbody2D> ().velocity = Vector3.right * SpaceShipSpeed;	
+		//this.GetComponent<Rigidbody2D> ().velocity = Vector3.right * SpaceShipSpeed;
 		//this.GetComponent<Rigidbody2D>().MovePosition += PositionTransform;
 		/* bool Horizontal = Input.GetKey ("d") || Input.GetKey ("a");
 		bool Vertical = Input.GetKey ("w") || Input.GetKey ("s"); */
