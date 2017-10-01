@@ -4,22 +4,25 @@ using UnityEngine;
 
 public class EnemyScript : MonoBehaviour {
 
+    public GameObject PlayerBullet;
 	public float EnemySpeed;
 	float rotateX;
 	private Vector2 movement;
 	float turnTimer;
 	float nextTurn = 0.0f;
 	bool facingRight;
+    public int Health;
 
 
 	//public Transform target;
 
 	// Use this for initialization
 	void Start () {
-
+        Health = 2;
 		facingRight = true;
 		rotateX = 2;
 		turnTimer = .5f;
+
 	}
 	
 	// Update is called once per frame
@@ -44,7 +47,12 @@ public class EnemyScript : MonoBehaviour {
 		}
 		movement = new Vector2 (rotateX, -1);
 
-
+        if(Health <= 0)
+        {
+            Destroy(gameObject);
+            Debug.Log("Enemy 1 dead");
+            GameManager.gm.enemyDead(1);
+        }
 
 		// LOOKING AT PLAYER AND MOVING TOWARDS IT
 		/*
@@ -63,8 +71,12 @@ public class EnemyScript : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D coll){
 		if (coll.gameObject.name == "BoundBoxBottom") {
 			Destroy (gameObject);
-            GameManager.gm.enemyDead(1);
-		}	
+		}
+        if (coll.gameObject.name == "PlayerBullet" || coll.gameObject.name == "PlayerBullet(Clone)")
+        {
+            //Debug.Log("Bullet hit");
+            Health--;
+        }
 	}	
 
 

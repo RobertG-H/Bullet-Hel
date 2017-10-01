@@ -122,8 +122,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1b0b4be44a84f94d9dc14e33eedb8ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PlayerBullet: {fileID: 1831660951063456, guid: 5387d6057c2c85844a6b3a1ad4032e81,
+    type: 2}
   EnemySpeed: 0.05
-  target: {fileID: 0}
+  Health: 2
 --- !u!212 &212596058935305886
 SpriteRenderer:
   m_ObjectHideFlags: 1
