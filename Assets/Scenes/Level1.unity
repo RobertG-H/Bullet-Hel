@@ -134,8 +134,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -152,8 +152,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 5
@@ -217,8 +217,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_Navigation:
     m_Mode: 3
     m_SelectOnUp: {fileID: 0}
@@ -255,7 +255,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument:
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -269,8 +269,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
@@ -390,7 +390,6 @@ Transform:
   m_Father: {fileID: 1291475273}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
-<<<<<<< HEAD
 --- !u!1001 &871721058
 Prefab:
   m_ObjectHideFlags: 0
@@ -478,8 +477,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
@@ -510,8 +509,8 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 896087416}
-=======
->>>>>>> 418f8df82b841040881861e2ce99dcd9f6d4d108
+
+
 --- !u!1 &900283422
 GameObject:
   m_ObjectHideFlags: 0
@@ -937,12 +936,12 @@ Prefab:
     - target: {fileID: 95445996756721038, guid: 81462d6c432e8334c972b6dfbbf40759,
         type: 2}
       propertyPath: m_Controller
-      value: 
+      value:
       objectReference: {fileID: 9100000, guid: 98fb2bf7b88a30a4b895b94a824b7e32, type: 2}
     - target: {fileID: 114945503154107346, guid: 81462d6c432e8334c972b6dfbbf40759,
         type: 2}
       propertyPath: turnLeftSprite
-      value: 
+      value:
       objectReference: {fileID: 21300126, guid: c7afd7ecdefa4e94093070add5beb480,
         type: 3}
     - target: {fileID: 95445996756721038, guid: 81462d6c432e8334c972b6dfbbf40759,
@@ -958,7 +957,7 @@ Prefab:
     - target: {fileID: 114945503154107346, guid: 81462d6c432e8334c972b6dfbbf40759,
         type: 2}
       propertyPath: PlayerShot
-      value: 
+      value:
       objectReference: {fileID: 1831660951063456, guid: 5387d6057c2c85844a6b3a1ad4032e81,
         type: 2}
     m_RemovedComponents: []
@@ -1002,8 +1001,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3f118751a79bb6c40945e58c69aa7f7b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
 --- !u!1 &1477008952
 GameObject:
   m_ObjectHideFlags: 0
@@ -1126,20 +1125,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: da53afe9dd2527b44b070abb6a3d53c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   score: 0
   gameIsOver: 0
-<<<<<<< HEAD
   canBeatLevel: 0
   beatLevelScore: 10
   playAgainButtons: {fileID: 627995745}
-=======
   canBeatLevel: 1
   beatLevelScore: 100
   playAgainButtons: {fileID: 0}
->>>>>>> 418f8df82b841040881861e2ce99dcd9f6d4d108
-  playAgainLevelToLoad: 
+  playAgainLevelToLoad:
   mainDisplay: {fileID: 1705851561}
 --- !u!4 &1539029799
 Transform:
@@ -1192,8 +1188,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 150b86267cd96424f81c182f868ccef3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   enemy1: {fileID: 1386319925656084, guid: 823ac2f842812074ab2a099c4ce340c9, type: 2}
   playerBase: {fileID: 0}
   EnemySpawnTime: 5
@@ -1223,8 +1219,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 242425ce4c432d54baca6556b7ed2a84, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   GamePaused: 0
   Counter: 0
   RestartButton: {fileID: 627995745}
@@ -1285,8 +1281,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
@@ -1342,8 +1338,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_IgnoreReversedGraphics: 1
   m_BlockingObjects: 0
   m_BlockingMask:
@@ -1358,8 +1354,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
@@ -1438,8 +1434,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b1568fc277ef9724498f3a18fefc5b41, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   speed: 1
 --- !u!23 &1803113473
 MeshRenderer:
