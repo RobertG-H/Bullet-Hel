@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 
+
 public class GameManager : MonoBehaviour
 {
 
@@ -27,6 +28,7 @@ public class GameManager : MonoBehaviour
     // setup the game
     void Start()
     {
+        Time.timeScale = 1;
 		mainDisplay.text = "0";
 
         // get a reference to the GameManager component for use by other scripts
@@ -34,7 +36,6 @@ public class GameManager : MonoBehaviour
             gm = this.gameObject.GetComponent<GameManager>();
 
         // inactivate the playAgainButtons gameObject, if it is set
-        if (playAgainButtons)
             playAgainButtons.SetActive(false);
 
     }
@@ -67,9 +68,9 @@ public class GameManager : MonoBehaviour
         mainDisplay.text = "GAME OVER";
 
         // activate the playAgainButtons gameObject, if it is set 
-        if (playAgainButtons)
-            playAgainButtons.SetActive(true);
         Time.timeScale = 0;
+        playAgainButtons.SetActive(true);
+
     }
 
     void BeatLevel()

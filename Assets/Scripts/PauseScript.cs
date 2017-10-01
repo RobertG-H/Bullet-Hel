@@ -6,10 +6,12 @@ public class PauseScript : MonoBehaviour {
 
 	public bool GamePaused;
 	public int Counter;
+    public GameObject RestartButton;
 	// Use this for initialization
 	void Start () {
 		Counter = 0;
 		GamePaused = false;
+        RestartButton.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -21,10 +23,12 @@ public class PauseScript : MonoBehaviour {
 				//Counter = 60;
 				Time.timeScale = 0;
 				Counter = 60;
+                RestartButton.SetActive(true);
 			}
 			if (!GamePaused) {
 				Counter = 60;
 				Time.timeScale = 1;
+                RestartButton.SetActive(false);
 			}
 		}
         if (Counter > 0)
