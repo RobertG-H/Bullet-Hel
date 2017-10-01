@@ -7,13 +7,18 @@ public class PlayerScript : MonoBehaviour {
 	public float SpaceShipSpeed = 2;
 	public GameObject PlayerShot;
 	public int Counter;
+    public int sp;
+   // int leftHash = Animator.StringToHash("Spaceship Left Animation");
+    //int rightHash = Animator.StringToHash("Spaceship Right Animation");
+   // Animator anim;
 	//public Sprite turnLeftSprite;
 	// Use this for initialization
 
 
     // Use this for initialization
     void Start () {
-			Counter = 0;
+        //anim = GetComponent<Animator>();
+	    Counter = 0;
 	}
 
 	// Update is called once per frame
@@ -36,12 +41,14 @@ public class PlayerScript : MonoBehaviour {
 			Debug.Log ("Player Moving Right");
 			//this.GetComponent<Rigidbody2D> ().velocity = Vector3.right * SpaceShipSpeed;
 			PositionTransform += Vector2.right * SpaceShipSpeed;
-		}
+            //anim.SetTrigger(rightHash);
+        }
 		else if (Input.GetKey ("a")) {
 		//	this.GetComponent<SpriteRenderer>().sprite = turnLeftSprite;
 			Debug.Log ("Player Moving Left");
 			//this.GetComponent<Rigidbody2D> ().velocity = Vector3.left * SpaceShipSpeed;
 			PositionTransform += Vector2.left * SpaceShipSpeed;
+            //anim.SetTrigger(leftHash);
 		}
 
 		if (Input.GetKey(KeyCode.None)) {
@@ -58,7 +65,7 @@ public class PlayerScript : MonoBehaviour {
 
         if(Input.GetKey("up") && Counter <= 0)
         {
-            Counter = 20;
+            Counter = sp;
             Debug.Log("Player shooting");
             PlayerShoot();
         }
