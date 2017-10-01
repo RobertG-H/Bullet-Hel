@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 114945503154107346}
   - component: {fileID: 50355100464093638}
   - component: {fileID: 58437020000098304}
+  - component: {fileID: 95445996756721038}
   m_Layer: 0
   m_Name: Spaceship
   m_TagString: Untagged
@@ -36,7 +37,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1172975131806344}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.01, y: -2.9895704, z: 0}
   m_LocalScale: {x: 4.7455306, y: 4.7455354, z: 4.7455354}
   m_Children: []
@@ -75,9 +76,26 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00056403305, y: -0.016356533}
+  m_Offset: {x: -0.00056403305, y: -0.016751526}
   serializedVersion: 2
-  m_Radius: 0.013445737
+  m_Radius: 0.0387233
+--- !u!95 &95445996756721038
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1172975131806344}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d609b24e23ee1b948ab0499d4204e0be, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114945503154107346
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -122,12 +140,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300012, guid: da785e0ea2db2484fbce4b3c33919c4b, type: 3}
+  m_Sprite: {fileID: 21300108, guid: c7afd7ecdefa4e94093070add5beb480, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.15, y: 0.16}
+  m_Size: {x: 0.25, y: 0.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

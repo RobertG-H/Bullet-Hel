@@ -1,12 +1,78 @@
 fileFormatVersion: 2
-guid: 1360ce86a3182e8488868f4c428b77a4
-timeCreated: 1506794695
+guid: c7afd7ecdefa4e94093070add5beb480
+timeCreated: 1506874335
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Bullet-Hell SpriteSheet_0
-    21300002: Bullet-Hell SpriteSheet_1
-    21300004: Bullet-Hell SpriteSheet_2
+    21300000: Bullet-Hell SpriteSheet 1_0
+    21300002: Bullet-Hell SpriteSheet 1_1
+    21300004: Bullet-Hell SpriteSheet 1_2
+    21300006: Bullet-Hell SpriteSheet 1_3
+    21300008: Bullet-Hell SpriteSheet 1_4
+    21300010: Bullet-Hell SpriteSheet 1_5
+    21300012: Bullet-Hell SpriteSheet 1_6
+    21300014: Bullet-Hell SpriteSheet 1_7
+    21300016: Bullet-Hell SpriteSheet 1_8
+    21300018: Bullet-Hell SpriteSheet 1_9
+    21300020: Bullet-Hell SpriteSheet 1_10
+    21300022: Bullet-Hell SpriteSheet 1_11
+    21300024: Bullet-Hell SpriteSheet 1_12
+    21300026: Bullet-Hell SpriteSheet 1_13
+    21300028: Bullet-Hell SpriteSheet 1_14
+    21300030: Bullet-Hell SpriteSheet 1_15
+    21300032: Bullet-Hell SpriteSheet 1_16
+    21300034: Bullet-Hell SpriteSheet 1_17
+    21300036: Bullet-Hell SpriteSheet 1_18
+    21300038: Bullet-Hell SpriteSheet 1_19
+    21300040: Bullet-Hell SpriteSheet 1_20
+    21300042: Bullet-Hell SpriteSheet 1_21
+    21300044: Bullet-Hell SpriteSheet 1_22
+    21300046: Bullet-Hell SpriteSheet 1_23
+    21300048: Bullet-Hell SpriteSheet 1_24
+    21300050: Bullet-Hell SpriteSheet 1_25
+    21300052: Bullet-Hell SpriteSheet 1_26
+    21300054: Bullet-Hell SpriteSheet 1_27
+    21300056: Bullet-Hell SpriteSheet 1_28
+    21300058: Bullet-Hell SpriteSheet 1_29
+    21300060: Bullet-Hell SpriteSheet_0
+    21300062: Bullet-Hell SpriteSheet_1
+    21300064: Bullet-Hell SpriteSheet_2
+    21300066: Bullet-Hell SpriteSheet_3
+    21300068: Bullet-Hell SpriteSheet_4
+    21300070: Bullet-Hell SpriteSheet_5
+    21300072: Bullet-Hell SpriteSheet_6
+    21300074: Bullet-Hell SpriteSheet_7
+    21300076: Bullet-Hell SpriteSheet_8
+    21300078: Bullet-Hell SpriteSheet_9
+    21300080: Bullet-Hell SpriteSheet_10
+    21300082: Bullet-Hell SpriteSheet_11
+    21300084: Bullet-Hell SpriteSheet_12
+    21300086: Bullet-Hell SpriteSheet_13
+    21300088: Bullet-Hell SpriteSheet_14
+    21300090: Bullet-Hell SpriteSheet_15
+    21300092: Bullet-Hell SpriteSheet_16
+    21300094: Bullet-Hell SpriteSheet_17
+    21300096: Bullet-Hell SpriteSheet_18
+    21300098: Bullet-Hell SpriteSheet_19
+    21300100: Bullet-Hell SpriteSheet_20
+    21300102: Bullet-Hell SpriteSheet_21
+    21300104: Bullet-Hell SpriteSheet_22
+    21300106: Bullet-Hell SpriteSheet_23
+    21300108: Bullet-Hell SpriteSheet_24
+    21300110: Bullet-Hell SpriteSheet_25
+    21300112: Bullet-Hell SpriteSheet_26
+    21300114: Bullet-Hell SpriteSheet_27
+    21300116: Bullet-Hell SpriteSheet_28
+    21300118: Bullet-Hell SpriteSheet_29
+    21300120: Bullet-Hell SpriteSheet_30
+    21300122: Bullet-Hell SpriteSheet_31
+    21300124: Bullet-Hell SpriteSheet_32
+    21300126: Bullet-Hell SpriteSheet_33
+    21300128: Bullet-Hell SpriteSheet_34
+    21300130: Bullet-Hell SpriteSheet_35
+    21300132: Bullet-Hell SpriteSheet_36
+    21300134: Bullet-Hell SpriteSheet_37
+    21300136: Bullet-Hell SpriteSheet_38
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -81,8 +147,8 @@ TextureImporter:
       name: Bullet-Hell SpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 85
+        x: 1
+        y: 184
         width: 15
         height: 15
       alignment: 0
@@ -95,8 +161,8 @@ TextureImporter:
       name: Bullet-Hell SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 86
+        x: 17
+        y: 185
         width: 15
         height: 14
       alignment: 0
@@ -109,10 +175,514 @@ TextureImporter:
       name: Bullet-Hell SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 87
+        x: 33
+        y: 186
         width: 15
         height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 187
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 188
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 189
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 167
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 167
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 172
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 153
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 153
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 138
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 138
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 109
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 80
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 77
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 75
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 59
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 29
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 30
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 30
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet-Hell SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 30
+        width: 21
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

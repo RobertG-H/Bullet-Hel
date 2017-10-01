@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour {
 
 	public float SpaceShipSpeed = 2;
+	//public Sprite turnLeftSprite;
 	// Use this for initialization
 	void Start () {
 		
@@ -31,6 +32,7 @@ public class PlayerScript : MonoBehaviour {
 			PositionTransform += Vector2.right * SpaceShipSpeed;
 		}
 		else if (Input.GetKey ("a")) {
+		//	this.GetComponent<SpriteRenderer>().sprite = turnLeftSprite;
 			Debug.Log ("Player Moving Left");
 			//this.GetComponent<Rigidbody2D> ().velocity = Vector3.left * SpaceShipSpeed;
 			PositionTransform += Vector2.left * SpaceShipSpeed;
