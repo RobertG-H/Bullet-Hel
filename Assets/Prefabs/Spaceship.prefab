@@ -108,6 +108,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SpaceShipSpeed: 0.2
+  PlayerShot: {fileID: 0}
+  Counter: 0
+  sp: 10
 --- !u!212 &212228876088512116
 SpriteRenderer:
   m_ObjectHideFlags: 1

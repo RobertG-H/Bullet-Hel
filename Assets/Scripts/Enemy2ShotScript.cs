@@ -17,7 +17,7 @@ public class Enemy2ShotScript : MonoBehaviour {
 
         if(Health <= 0)
         {
-            Destroy(gameObject);
+            //Destroy(gameObject);
         }
 	}
 

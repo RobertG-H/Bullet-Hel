@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyScript : MonoBehaviour {
 
-    public GameObject PlayerBullet;
+    public Sprite NewBehaviourScript1;
 	public float EnemySpeed;
 	float rotateX;
 	private Vector2 movement;
@@ -12,12 +12,12 @@ public class EnemyScript : MonoBehaviour {
 	float nextTurn = 0.0f;
 	bool facingRight;
     public int Health;
+    public Sprite damagedSprite;
 
+    //public Transform target;
 
-	//public Transform target;
-
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         Health = 2;
 		facingRight = true;
 		rotateX = 2;
@@ -74,11 +74,12 @@ public class EnemyScript : MonoBehaviour {
 		}
         if (coll.gameObject.name == "PlayerBullet" || coll.gameObject.name == "PlayerBullet(Clone)")
         {
+            this.GetComponent<SpriteRenderer>().sprite = damagedSprite;
             //Debug.Log("Bullet hit");
+
             Health--;
         }
-	}	
+	}
 
 
-		
 }
