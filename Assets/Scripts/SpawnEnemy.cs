@@ -6,6 +6,7 @@ public class SpawnEnemy : MonoBehaviour {
 
 	public GameObject enemy1;
 	public GameObject playerBase;
+    public float EnemySpawnTime;
 	float randX;
 	Vector2 whereToSpawn;
 	public float spawnRate = 2f;
@@ -14,16 +15,21 @@ public class SpawnEnemy : MonoBehaviour {
 
 
 
-	void Update(){
+    void Update()
+    {
 
+        if (Time.realtimeSinceStartup >= EnemySpawnTime)
+        {
+            //Debug.Log("%d", Time.time);
+            if (Time.time > nextSpawn)
+            {
+                nextSpawn = Time.time + spawnRate;
+                randX = Random.Range(-5, 3);
+                whereToSpawn = new Vector2(randX, transform.position.y);
 
-		if (Time.time > nextSpawn) {
-			nextSpawn = Time.time + spawnRate;
-			randX = Random.Range (-5, 3);
-			whereToSpawn = new Vector2 (randX, transform.position.y);
+                GameObject enemy = (GameObject)Instantiate(enemy1, whereToSpawn, transform.rotation);
+            }
 
-			GameObject enemy = (GameObject)Instantiate (enemy1, whereToSpawn, transform.rotation);
-		}
-
-	}
+        }
+    }
 }
