@@ -5,16 +5,15 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour {
 
 	public float SpaceShipSpeed = 2;
+	public GameObject PlayerShot;
+	public int Counter;
 	//public Sprite turnLeftSprite;
 	// Use this for initialization
-	void Start () {
 
-    public GameObject PlayerShot;
-    public float SpaceShipSpeed = 2;
-    public int Counter;
+
     // Use this for initialization
     void Start () {
-        Counter = 0;
+			Counter = 0;
 	}
 
 	// Update is called once per frame

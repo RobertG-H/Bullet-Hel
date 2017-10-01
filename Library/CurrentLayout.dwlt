@@ -109,9 +109,9 @@ MonoBehaviour:
     width: 1920
     height: 947
   m_MinSize: {x: 913, y: 421}
-  m_MaxSize: {x: 22008, y: 10000}
+  m_MaxSize: {x: 22008, y: 10021}
   vertical: 0
-  controlID: 15518
+  controlID: 6756
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 421}
   m_MaxSize: {x: 4004, y: 8021}
   vertical: 1
-  controlID: 15477
+  controlID: 6715
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -292,7 +292,7 @@ MonoBehaviour:
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 08000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
@@ -367,9 +367,9 @@ MonoBehaviour:
     height: 926
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e270000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 3ea2feff1afcffff00000000
+    m_ExpandedIDs: 14fbffff000000005c2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -419,14 +419,14 @@ MonoBehaviour:
     width: 857
     height: 465
   m_SceneLighting: 1
-  lastFramingTime: 1260.2452050351426
+  lastFramingTime: 212.9726396157473
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.4533288, y: 3.0535579, z: -3.2734375}
+    m_Target: {x: 8.339996, y: 414.96002, z: 0}
     speed: 2
-    m_Value: {x: 1.4533288, y: 3.0535579, z: -3.2734375}
+    m_Value: {x: 8.339996, y: 414.96002, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -453,9 +453,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 19.208652
+    m_Target: 249.88728
     speed: 2
-    m_Value: 19.208652
+    m_Value: 249.88728
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -536,13 +536,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Vaib\Documents\GameJam Fall 2017\Bullet Hell\Bullet-Hell
+  m_LastProjectPath: D:\Hobbies\Game Dev\Bullet-Hell
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: cc260000
-    m_LastClickedID: 9932
-    m_ExpandedIDs: 000000001e260000ca28000000ca9a3bffffff7f
+    m_SelectedIDs: a8270000
+    m_LastClickedID: 10152
+    m_ExpandedIDs: 00000000f0260000f029000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -570,7 +570,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e260000ca28000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000f0260000f029000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -677,7 +677,7 @@ MonoBehaviour:
     y: 92
     width: 427
     height: 926
-  m_ScrollPosition: {x: 0, y: 190.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -160

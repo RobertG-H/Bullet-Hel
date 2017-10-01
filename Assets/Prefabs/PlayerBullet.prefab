@@ -80,7 +80,7 @@ Rigidbody2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1831660951063456}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb755288db0b8a64393a1da0a4fab0ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shotSpeed: 1
+  shotSpeed: 0.1
   shotDamage: 1
 --- !u!212 &212043398844035184
 SpriteRenderer:
